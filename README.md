@@ -1,4 +1,4 @@
-### Projet 2 OpenClassrooms : Analyse et Prévision Marketing chez Le Grand Marché 📊
+### Projet Analyse et Prévision Marketing chez Le Grand Marché 📊
 
 #### Introduction :
 
